@@ -1,6 +1,7 @@
-Nama  : Dezky Putera Satrio
-NIM   : 09011282227042
+#Nama  : Dezky Putera Satrio
+#NIM   : 09011282227042
 
+---
 
 # 📘 Standar & Sertifikasi Data Center
 
