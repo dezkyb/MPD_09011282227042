@@ -1,6 +1,6 @@
 # 📘 Standar & Sertifikasi Data Center
-# **Nama:** Dezky Putera Satrio  
-# **NIM:** 09011282227042  
+**Nama:** Dezky Putera Satrio  
+**NIM:** 09011282227042  
 
 Repository ini berisi informasi tentang standar dan sertifikasi yang digunakan dalam industri data center, meliputi **Uptime Institute Tier I-IV**, **TIA-942**, dan **ISO/IEC 27001**.
 
