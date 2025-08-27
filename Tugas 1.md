@@ -1,6 +1,6 @@
 # 📘 Standar & Sertifikasi Data Center
 **Nama:** Dezky Putera Satrio  
-**NIM :** 09011282227042  
+**NIM:** 09011282227042  
 
 Repository ini berisi informasi tentang standar dan sertifikasi yang digunakan dalam industri data center, meliputi **Uptime Institute Tier I-IV**, **TIA-942**, dan **ISO/IEC 27001**.
 
@@ -76,4 +76,27 @@ Mengacu pada Annex A (114 kontrol), mencakup:
 - Manajemen risiko
 
 **Sertifikasi:**  
-- Dilakukan oleh **badan sertifikasi te**
+- Dilakukan oleh **badan sertifikasi terakreditasi** (BSI, TÜV, SGS, dll)
+- Berlaku 3 tahun, dengan audit tahunan.
+
+**Lembaga Penerbit:**  
+[ISO](https://www.iso.org/)
+
+---
+
+## 📊 Perbandingan Standar
+| Standar             | Fokus Utama                                  |
+|----------------------|---------------------------------------------|
+| **Uptime Institute** | Infrastruktur fisik & keandalan (uptime)   |
+| **TIA-942**          | Telekomunikasi & layout fisik              |
+| **ISO/IEC 27001**    | Keamanan informasi (manajemen & kontrol)   |
+
+---
+
+## 🔗 Referensi
+- [Uptime Institute](https://uptimeinstitute.com/)
+- [TIA-942 Standard](https://www.tiaonline.org/)
+- [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html)
+
+---
+
